@@ -1,16 +1,84 @@
-# React + Vite
+# 🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive weather application that allows users to search for any city and view real-time weather information using a weather API.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Search weather by city name
+- View real-time temperature
+- Check humidity levels
+- Monitor wind speed
+- Display current weather conditions
+- Responsive design for desktop and mobile
+- Fast and accurate API-powered updates
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Get instant weather updates for cities around the world through a clean and user-friendly interface.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Weather API
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/weather-app.git
+```
+
+### Navigate to the Project Directory
+
+```bash
+cd weather-app
+```
+
+### Open the Application
+
+Simply open the `index.html` file in your browser.
+
+## 🔑 API Setup
+
+1. Sign up for a weather API service (e.g., OpenWeatherMap).
+2. Generate an API key.
+3. Replace the placeholder API key in your JavaScript file:
+
+```javascript
+const API_KEY = "YOUR_API_KEY";
+```
+
+## 📂 Project Structure
+
+```text
+weather-app/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🌍 Usage
+
+1. Enter a city name in the search bar.
+2. Click the search button.
+3. View current weather details instantly.
+
+## 🔮 Future Enhancements
+
+- 5-day weather forecast
+- Current location weather
+- Dark/Light mode
+- Weather icons and animations
+- Recent search history
+
+
+
+---
+
+⭐ If you found this project useful, consider giving it a star!

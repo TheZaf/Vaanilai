@@ -16,6 +16,10 @@ A simple and responsive weather application that allows users to search for any 
 
 Get instant weather updates for cities around the world through a clean and user-friendly interface.
 
+<img width="314" height="617" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/2178c37b-34f4-4726-9c07-a549b197ba69" />
+<img width="1366" height="684" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/7ccf68fa-a05a-429d-9739-2e8a44110f36" />
+
+
 
 ## 🛠️ Tech Stack
 
